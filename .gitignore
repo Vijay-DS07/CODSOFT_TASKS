@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+todo_data.json
+contacts.json
