@@ -81,7 +81,7 @@ def main():
         length = len(required)
 
     password = generate_password(length, pool, required)
-    print(f"\nYour password: {password}\n")
+    print(f"\nYour pasword: {password}\n")
 
 
 if __name__ == "__main__":
